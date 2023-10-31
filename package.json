@@ -1,0 +1,18 @@
+{
+  "name": "dannyjansen",
+  "version": "1.0.0",
+  "description": "This is a package with multiple helper functions made by Danny Jansen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dannyjansenhelpers"
+  },
+  "keywords": [
+    "helpers"
+  ],
+  "author": "Danny Jansen",
+  "license": "ISC"
+}
